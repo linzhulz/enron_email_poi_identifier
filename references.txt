@@ -1,0 +1,9 @@
+References:
+1. GitHub repository:https://github.com/onemegan/enron-fraud
+2. Stacked barplot: http://randyzwitch.com/creating-stacked-bar-chart-seaborn/
+3. Seaborn: http://seaborn.pydata.org/generated/seaborn.barplot.html
+4. Enron introduction: https://en.wikipedia.org/wiki/Enron#2001_Accounting_scandals
+5. Precision, Recall and F1 score: https://www.kaggle.com/wiki/MeanFScore
+6. Decision Tree: http://scikit-learn.org/0.17/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+
+
